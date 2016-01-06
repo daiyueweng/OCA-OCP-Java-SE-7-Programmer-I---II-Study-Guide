@@ -1,0 +1,3 @@
+interface Spherical{
+	void doSphericalThing();
+}
